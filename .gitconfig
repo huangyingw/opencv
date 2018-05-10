@@ -19,3 +19,5 @@
 [branch "dev"]
     remote = origin
     merge = refs/heads/dev
+[vrun]
+    silent = false
